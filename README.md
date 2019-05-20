@@ -1,0 +1,1 @@
+# 使用原型模式的hacker-news的JSDK
